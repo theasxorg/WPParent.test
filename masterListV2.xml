@@ -2,6 +2,48 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
+  	  <app>
+   <name>Saski Studio Calculator</name>
+	<review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Get children excited by Maths with the sweetest calculator ever: it makes counting not only easy but also rewarding an fun!]]></tweet>
+	  <bitly>http://bit.ly/SS_Cal</bitly>
+      <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
+      <priority>290515</priority>
+      <categories>
+		<category>Kids</category>
+		<category>Featured</category> 
+        <category>Geeky</category>
+        <category>Math</category>
+        <category>Older Child (9-12 years)</category>
+        <category>Pre-schooler (3-5 years)</category>
+        <category>Young Child (5-8 years)</category>
+      </categories>
+      <filters />
+      <url>http://windowsphoneparent.com/best-productivity-list-task-apps-for-parents-on-windows-phone-a-math-facts/</url>
+      <rating>1</rating>      <related />
+    </app>
+  <app>
+      <name>BizXpert Invoice and Inventory</name>
+      <review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Easily make, send, and print invoices w/BizXpert! It also manages expenses, inventories, schedules, and more!]]></tweet>
+	  <bitly>http://bit.ly/1OZTu2R</bitly>
+      <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>
+      <priority>290415</priority>
+      <categories>
+		<category>Parents</category>
+		<category>Featured</category>
+        <category>Finances</category>
+        <category>Productivity</category>
+      </categories>
+      <filters />
+      <url>http://windowsphoneparent.com/app-to-keep-track-of-your-finances-for-windows-phone-budget-buddy</url>
+      <rating>0</rating>
+      <related>
+        <rapp>e9021c97-0fa7-4121-a869-8858d80ce4e6</rapp>
+      </related>
+    </app>
 <app>
       <name>Real Kakuro - Cross Sums</name>      <review>0</review>
       <free>FREE APP! </free>
