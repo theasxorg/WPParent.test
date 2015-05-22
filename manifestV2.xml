@@ -209,12 +209,12 @@
     </video>
   </videos>
   <featured>
+      <id>5ceac03a-7349-413e-918f-62f11d401c7e</id>
       <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
       <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>
       <id>8ac639b7-143a-40db-9f14-89d7fc5b3718</id>
       <id>40cc0963-cca2-4d40-a1e5-7cb998f80c74</id>
       <id>04b03ddb-48ff-471e-a74f-03950694e015</id>
-      <id>3146911c-a6aa-4aeb-883b-51dd42524406</id>
  </featured>
   <masterListPath>masterListV2.xml</masterListPath>
 </manifest>

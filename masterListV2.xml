@@ -2,6 +2,30 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
+  <app>
+      <name>Memorize it!</name>
+	  <review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Must learn something by heart? Try Memorize it! & make the process easy through visual clues, anagrams & more!]]></tweet>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1ISZavD</bitly>
+      <id>5ceac03a-7349-413e-918f-62f11d401c7e</id>
+      <priority>150522</priority>
+      <categories>
+	    <category>Kids</category>
+	    <category>Featured</category> 
+        <category>Teenager</category>
+	<category>Study Aids</category>
+        <category>Parents</category>
+        <category>Memory</category>
+      </categories>
+      <filters>
+        <filter>educational apps</filter>
+      </filters>
+      <url>http://windowsphoneparent.com/best-preschool-apps-for-toddler-kids-on-windows-phone-2-3-y-o-s-quiz-free</url>
+      <rating>0</rating>
+      <related />
+    </app>
   	  <app>
    <name>Saski Studio Calculator</name>
 	<review>0</review>
